@@ -1,0 +1,2 @@
+# Projet_reconnaissance_Art_ML
+an algorithm which makes it possible to recognize works of art created by several people from the outline of the person and the style of work presented. this AI is made from Machine Learning which can be integrated into a website or a mobile application to recognize the works of a creator's prediction. it has a recognition performance at 93% of the F_1 score and accuracy. currently under development and soon to be carried out with deep learning to try to arrive at 97% accuracy.
